@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+*.swp

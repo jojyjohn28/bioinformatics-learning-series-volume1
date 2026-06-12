@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+
+title: "Bioinformatics Learning Series Volume 1: Amplicon Analysis and QIIME2-to-R Workflows"
+
+message: "If you use this repository, please cite the archived version."
+
+type: generic
+
+authors:
+  - family-names: John
+    given-names: Jojy
+
+version: 1.0.0
+
+date-released: 2026-06-12
+
+license: MIT
